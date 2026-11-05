@@ -15,25 +15,5 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/bonjourluana/trevo-releases/releases/download/v1.0.32/Trevo-1.0.32-update.zip" length="8235500" type="application/octet-stream" sparkle:edSignature="E67GEBqxV5xZ8nrWMGqOpO96sCteakCYjDJ2FcEpeoC0s0TR5/iUGh9rr3E8D8a6/4mV7AcFXc351sELzGQ9Aw=="/>
         </item>
-        <item>
-            <title>1.0.31</title>
-            <pubDate>Fri, 30 Oct 2026 13:59:53 -0300</pubDate>
-            <link>https://github.com/bonjourluana/trevo-releases/releases</link>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/bonjourluana/trevo-releases/releases/download/v1.0.31/Trevo-1.0.31-update.zip" length="8622703" type="application/octet-stream" sparkle:edSignature="O5y0YStGVyYsroYzpLbJFbIOZPTb9eZIct+Pb/6RGkW8a2vPyXbxqO9zS4HDXhfpHR7qx0Gd/mdJ3OlADwSDAw=="/>
-        </item>
-        <item>
-            <title>1.0.30</title>
-            <pubDate>Thu, 29 Oct 2026 18:33:15 -0300</pubDate>
-            <link>https://github.com/bonjourluana/trevo-releases/releases</link>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/bonjourluana/trevo-releases/releases/download/v1.0.30/Trevo-1.0.30-update.zip" length="8614066" type="application/octet-stream" sparkle:edSignature="/7Wl0hwK+vDJzOsTiWPzNp7WEG7/3EuEnHZJvhFFhx3IWOm1m0qH89M71KK4c+zRCY/hO/n3oWtXLo6jKfZ5Aw=="/>
-        </item>
     </channel>
 </rss>

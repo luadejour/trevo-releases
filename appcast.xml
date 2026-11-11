@@ -2,18 +2,18 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Atualizações do Trevo</title>
-        <link>https://github.com/bonjourluana/trevo-releases/releases</link>
+        <link>https://github.com/luadejour/trevo-releases/releases</link>
         <description>Atualizações do Trevo para macOS.</description>
         <language>pt-BR</language>
         <item>
-            <title>1.0.32</title>
-            <pubDate>Fri, 30 Oct 2026 17:00:02 -0300</pubDate>
-            <link>https://github.com/bonjourluana/trevo-releases/releases</link>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
+            <title>1.0.33</title>
+            <pubDate>Wed, 11 Nov 2026 08:09:46 -0300</pubDate>
+            <link>https://github.com/luadejour/trevo-releases/releases</link>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/bonjourluana/trevo-releases/releases/download/v1.0.32/Trevo-1.0.32-update.zip" length="8235500" type="application/octet-stream" sparkle:edSignature="E67GEBqxV5xZ8nrWMGqOpO96sCteakCYjDJ2FcEpeoC0s0TR5/iUGh9rr3E8D8a6/4mV7AcFXc351sELzGQ9Aw=="/>
+            <enclosure url="https://github.com/luadejour/trevo-releases/releases/download/v1.0.33/Trevo-1.0.33-update.zip" length="8253769" type="application/octet-stream" sparkle:edSignature="uyxSd63IH0WGwjZGN0Ny1fST7HbrY98kh5SqNB+Jdzx/9Nyt3Yj4F4pJOEzwIabzMQinRedhZ15LuozbGTISCQ=="/>
         </item>
     </channel>
 </rss>

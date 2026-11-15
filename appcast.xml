@@ -6,14 +6,14 @@
         <description>Atualizações do Trevo para macOS.</description>
         <language>pt-BR</language>
         <item>
-            <title>1.0.38</title>
-            <pubDate>Sun, 15 Nov 2026 12:53:23 -0300</pubDate>
+            <title>1.0.39</title>
+            <pubDate>Sun, 15 Nov 2026 12:59:46 -0300</pubDate>
             <link>https://github.com/luadejour/trevo-releases/releases</link>
-            <sparkle:version>45</sparkle:version>
-            <sparkle:shortVersionString>1.0.38</sparkle:shortVersionString>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>1.0.39</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/luadejour/trevo-releases/releases/download/v1.0.38/Trevo-1.0.38-update.zip" length="8310177" type="application/octet-stream" sparkle:edSignature="YJ5kiBvey2cNTRJ8mftx9I90QZGKugvFSkE10+bXmAuTqvsbHwK4RgBXEWXSxWfHCgpuWfx0+xRRNdoHtU9GAA=="/>
+            <enclosure url="https://github.com/luadejour/trevo-releases/releases/download/v1.0.39/Trevo-1.0.39-update.zip" length="8313439" type="application/octet-stream" sparkle:edSignature="MYfoC8sSlfTdP2NSjs2tVllF7+tmaV0jqa3M/psKgKx4DC5t9KJkKHZvEjNATSzHkalP00HuoEcKcQsHmXx5BQ=="/>
         </item>
     </channel>
 </rss>
